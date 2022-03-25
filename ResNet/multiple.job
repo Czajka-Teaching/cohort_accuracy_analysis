@@ -1,0 +1,16 @@
+#!/bin/bash
+#$ -o /afs/crc.nd.edu/user/a/abhatta/NNproject/logs/
+#$ -pe smp 4
+#$ -q gpu
+#$ -l gpu_card=4
+#$ -N gender_classification_resnet
+
+module load pytorch
+
+#distance=(50 101 152)
+
+python3 main.py -n 50
+
+
+
+
