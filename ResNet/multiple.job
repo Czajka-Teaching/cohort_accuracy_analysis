@@ -7,7 +7,7 @@
 
 module load pytorch
 
-#distance=(50 101 152)
+#layers=(50 101 152)
 
 python3 main.py -n 50
 
