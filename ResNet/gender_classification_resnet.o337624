@@ -1,0 +1,325 @@
+Loading pytorch/1.1.0
+  Loading requirement: cuda/10.0 cudnn/7.4
+Train DataLoading Started!
+Train DataLoading Ended!
+Total time taken for Train Data Loading: 0.13703107833862305
+The length of the training dataset is: 47009
+Validation DataLoading Started!
+Validation DataLoading Ended!
+Total time taken for Train Data Loading: 0.03255200386047363
+The length of the training dataset is: 11649
+Model will use 4 GPUs!
+Adjusting learning rate of group 0 to 1.0000e-01.
+EPOCH Training 1 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.025200421810150146
+Loss at the end of Epoch 1 = 622.6227546930313
+Training Accuracy at the end of Epoch 1 = 60.8075065612793
+Accuracy for the validation set = 49.858360290527344
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 2 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.020468686752849154
+Loss at the end of Epoch 2 = 159.82794347405434
+Training Accuracy at the end of Epoch 2 = 80.58882141113281
+Accuracy for the validation set = 50.158809661865234
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 3 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.02047283735540178
+Loss at the end of Epoch 3 = 133.58901171386242
+Training Accuracy at the end of Epoch 3 = 84.80928802490234
+Accuracy for the validation set = 50.14164352416992
+EPOCH Training 4 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.020713538726170856
+Loss at the end of Epoch 4 = 132.0611763894558
+Training Accuracy at the end of Epoch 4 = 85.09860229492188
+Accuracy for the validation set = 67.82556915283203
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 5 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.02049688928657108
+Loss at the end of Epoch 5 = 136.21715059876442
+Training Accuracy at the end of Epoch 5 = 84.56040954589844
+Accuracy for the validation set = 49.76393127441406
+EPOCH Training 6 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.02044026984108819
+Loss at the end of Epoch 6 = 143.67652161419392
+Training Accuracy at the end of Epoch 6 = 84.03497314453125
+Accuracy for the validation set = 50.48501968383789
+EPOCH Training 7 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.020197783576117623
+Loss at the end of Epoch 7 = 144.80142457783222
+Training Accuracy at the end of Epoch 7 = 83.94988250732422
+Accuracy for the validation set = 51.652503967285156
+EPOCH Training 8 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.020464345282978483
+Loss at the end of Epoch 8 = 186.49696117639542
+Training Accuracy at the end of Epoch 8 = 81.11851501464844
+Accuracy for the validation set = 79.01966094970703
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 9 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.020405440065595838
+Loss at the end of Epoch 9 = 463.39402839541435
+Training Accuracy at the end of Epoch 9 = 67.21691131591797
+Accuracy for the validation set = 50.14164352416992
+EPOCH Training 10 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.02010964466465844
+Loss at the end of Epoch 10 = 234.72315156459808
+Training Accuracy at the end of Epoch 10 = 67.20415496826172
+Accuracy for the validation set = 62.571895599365234
+EPOCH Training 11 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.020136963460180495
+Loss at the end of Epoch 11 = 167.21804001927376
+Training Accuracy at the end of Epoch 11 = 79.67835998535156
+Accuracy for the validation set = 70.67559051513672
+EPOCH Training 12 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.02037599947717455
+Loss at the end of Epoch 12 = 179.3073148727417
+Training Accuracy at the end of Epoch 12 = 81.0355453491211
+Accuracy for the validation set = 50.14164352416992
+EPOCH Training 13 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.020249028007189432
+Loss at the end of Epoch 13 = 393.95071053504944
+Training Accuracy at the end of Epoch 13 = 51.185943603515625
+Accuracy for the validation set = 50.14164352416992
+EPOCH Training 14 Started!
+Adjusting learning rate of group 0 to 1.0000e-01.
+Time taken to finish this Epoch is 0.02027272853586409
+Loss at the end of Epoch 14 = 309.7457637190819
+Training Accuracy at the end of Epoch 14 = 51.622032165527344
+Accuracy for the validation set = 49.858360290527344
+EPOCH Training 15 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.020272709528605142
+Loss at the end of Epoch 15 = 279.4954099059105
+Training Accuracy at the end of Epoch 15 = 51.44334411621094
+Accuracy for the validation set = 49.858360290527344
+EPOCH Training 16 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.019960726035965815
+Loss at the end of Epoch 16 = 159.46072244644165
+Training Accuracy at the end of Epoch 16 = 79.43373107910156
+Accuracy for the validation set = 49.875526428222656
+EPOCH Training 17 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.02056194802125295
+Loss at the end of Epoch 17 = 99.7044949233532
+Training Accuracy at the end of Epoch 17 = 89.0765609741211
+Accuracy for the validation set = 90.33393859863281
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 18 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.020108226868841384
+Loss at the end of Epoch 18 = 90.92343881726265
+Training Accuracy at the end of Epoch 18 = 89.98915100097656
+Accuracy for the validation set = 58.348358154296875
+EPOCH Training 19 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.020314770208464727
+Loss at the end of Epoch 19 = 110.17426668852568
+Training Accuracy at the end of Epoch 19 = 87.04716491699219
+Accuracy for the validation set = 92.48863220214844
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 20 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.020095629294713337
+Loss at the end of Epoch 20 = 79.30744341015816
+Training Accuracy at the end of Epoch 20 = 91.68669891357422
+Accuracy for the validation set = 92.30835723876953
+EPOCH Training 21 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.020086401767200893
+Loss at the end of Epoch 21 = 75.48574389517307
+Training Accuracy at the end of Epoch 21 = 92.26744079589844
+Accuracy for the validation set = 89.08918762207031
+EPOCH Training 22 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.020700458354420134
+Loss at the end of Epoch 22 = 73.22663281857967
+Training Accuracy at the end of Epoch 22 = 92.5184555053711
+Accuracy for the validation set = 89.93904876708984
+EPOCH Training 23 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.020284980535507202
+Loss at the end of Epoch 23 = 70.51926386356354
+Training Accuracy at the end of Epoch 23 = 92.73330688476562
+Accuracy for the validation set = 71.3795166015625
+EPOCH Training 24 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.02039460950427585
+Loss at the end of Epoch 24 = 69.15647411346436
+Training Accuracy at the end of Epoch 24 = 92.91412353515625
+Accuracy for the validation set = 79.5003890991211
+EPOCH Training 25 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.020165461897850036
+Loss at the end of Epoch 25 = 66.69844930619001
+Training Accuracy at the end of Epoch 25 = 93.2608642578125
+Accuracy for the validation set = 90.33393859863281
+EPOCH Training 26 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.020173432562086317
+Loss at the end of Epoch 26 = 66.98800369352102
+Training Accuracy at the end of Epoch 26 = 93.1800308227539
+Accuracy for the validation set = 70.12619018554688
+EPOCH Training 27 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.02017138792408837
+Loss at the end of Epoch 27 = 65.99635756760836
+Training Accuracy at the end of Epoch 27 = 93.2417221069336
+Accuracy for the validation set = 88.15349578857422
+EPOCH Training 28 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.020119690895080568
+Loss at the end of Epoch 28 = 65.15530024468899
+Training Accuracy at the end of Epoch 28 = 93.39701080322266
+Accuracy for the validation set = 66.2116928100586
+EPOCH Training 29 Started!
+Adjusting learning rate of group 0 to 1.0000e-02.
+Time taken to finish this Epoch is 0.02012425634596083
+Loss at the end of Epoch 29 = 66.33531950414181
+Training Accuracy at the end of Epoch 29 = 93.30128479003906
+Accuracy for the validation set = 88.29942321777344
+EPOCH Training 30 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.020352510081397164
+Loss at the end of Epoch 30 = 69.04931152611971
+Training Accuracy at the end of Epoch 30 = 92.9864501953125
+Accuracy for the validation set = 68.98445892333984
+EPOCH Training 31 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.020428913368119132
+Loss at the end of Epoch 31 = 54.28830064088106
+Training Accuracy at the end of Epoch 31 = 94.6776123046875
+Accuracy for the validation set = 95.36441040039062
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 32 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.02072182814280192
+Loss at the end of Epoch 32 = 51.08520268648863
+Training Accuracy at the end of Epoch 32 = 95.04776000976562
+Accuracy for the validation set = 95.02961730957031
+EPOCH Training 33 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.02033090697394477
+Loss at the end of Epoch 33 = 50.09688246995211
+Training Accuracy at the end of Epoch 33 = 95.12008666992188
+Accuracy for the validation set = 95.69920349121094
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 34 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.02018360846572452
+Loss at the end of Epoch 34 = 48.19411573559046
+Training Accuracy at the end of Epoch 34 = 95.34770202636719
+Accuracy for the validation set = 94.8321762084961
+EPOCH Training 35 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.02001922024620904
+Loss at the end of Epoch 35 = 48.25606145337224
+Training Accuracy at the end of Epoch 35 = 95.28388214111328
+Accuracy for the validation set = 95.51034545898438
+EPOCH Training 36 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.02014071007569631
+Loss at the end of Epoch 36 = 46.890034198760986
+Training Accuracy at the end of Epoch 36 = 95.3668441772461
+Accuracy for the validation set = 95.20130920410156
+EPOCH Training 37 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.020171271761258443
+Loss at the end of Epoch 37 = 46.030675787478685
+Training Accuracy at the end of Epoch 37 = 95.46895599365234
+Accuracy for the validation set = 95.39016723632812
+EPOCH Training 38 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.020748555660247803
+Loss at the end of Epoch 38 = 45.03983039036393
+Training Accuracy at the end of Epoch 38 = 95.63700866699219
+Accuracy for the validation set = 95.1669692993164
+EPOCH Training 39 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.019794627494282194
+Loss at the end of Epoch 39 = 45.73444902151823
+Training Accuracy at the end of Epoch 39 = 95.51150512695312
+Accuracy for the validation set = 95.71637725830078
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 40 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.020646484825346204
+Loss at the end of Epoch 40 = 44.31800635159016
+Training Accuracy at the end of Epoch 40 = 95.67529296875
+Accuracy for the validation set = 95.57902526855469
+EPOCH Training 41 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.0199270768960317
+Loss at the end of Epoch 41 = 43.89780165813863
+Training Accuracy at the end of Epoch 41 = 95.73485565185547
+Accuracy for the validation set = 95.57044219970703
+EPOCH Training 42 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.020090160237418282
+Loss at the end of Epoch 42 = 42.88641469180584
+Training Accuracy at the end of Epoch 42 = 95.7540054321289
+Accuracy for the validation set = 95.50176239013672
+EPOCH Training 43 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.02019358575344086
+Loss at the end of Epoch 43 = 43.09893989935517
+Training Accuracy at the end of Epoch 43 = 95.7391128540039
+Accuracy for the validation set = 95.60477447509766
+EPOCH Training 44 Started!
+Adjusting learning rate of group 0 to 1.0000e-03.
+Time taken to finish this Epoch is 0.020366609427664016
+Loss at the end of Epoch 44 = 41.0491749830544
+Training Accuracy at the end of Epoch 44 = 95.92418670654297
+Accuracy for the validation set = 95.60477447509766
+EPOCH Training 45 Started!
+Adjusting learning rate of group 0 to 1.0000e-04.
+Time taken to finish this Epoch is 0.020255116489198473
+Loss at the end of Epoch 45 = 40.58109237626195
+Training Accuracy at the end of Epoch 45 = 96.01140594482422
+Accuracy for the validation set = 95.68203735351562
+EPOCH Training 46 Started!
+Adjusting learning rate of group 0 to 1.0000e-04.
+Time taken to finish this Epoch is 0.02013101273112827
+Loss at the end of Epoch 46 = 36.78758601099253
+Training Accuracy at the end of Epoch 46 = 96.41133117675781
+Accuracy for the validation set = 95.84513854980469
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 47 Started!
+Adjusting learning rate of group 0 to 1.0000e-04.
+Time taken to finish this Epoch is 0.020074649850527447
+Loss at the end of Epoch 47 = 36.36905256845057
+Training Accuracy at the end of Epoch 47 = 96.5687484741211
+Accuracy for the validation set = 95.87089538574219
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 48 Started!
+Adjusting learning rate of group 0 to 1.0000e-04.
+Time taken to finish this Epoch is 0.019886947671572366
+Loss at the end of Epoch 48 = 35.15536835230887
+Training Accuracy at the end of Epoch 48 = 96.67935943603516
+Accuracy for the validation set = 95.93956756591797
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
+EPOCH Training 49 Started!
+Adjusting learning rate of group 0 to 1.0000e-04.
+Time taken to finish this Epoch is 0.020294210116068523
+Loss at the end of Epoch 49 = 34.39231999963522
+Training Accuracy at the end of Epoch 49 = 96.6687240600586
+Accuracy for the validation set = 95.93098449707031
+EPOCH Training 50 Started!
+Adjusting learning rate of group 0 to 1.0000e-04.
+Time taken to finish this Epoch is 0.019986281593640645
+Loss at the end of Epoch 50 = 35.15882735140622
+Training Accuracy at the end of Epoch 50 = 96.69425201416016
+Accuracy for the validation set = 95.9738998413086
+Saving the best model so far at ~/NNproject/saved_models/resnet50_model.pth
