@@ -1,3 +1,22 @@
+# Network Architecture and Summary
+
+a) Layers: I have implemented ResNet 50/101/152 from scratch for the gender classification model. 
+
+b) There could be several loss function available but the loss of preference for two class classification in general is binary cross-entropy loss. However, I have used a cross entropy loss function in the network and mainly because, I want to implement CAM to this network.
+
+c) Optimizations: I have used standard Adam Optimizer, with initial learning rate of 0.1 with step reduction by factor of 0.1 every 15 epochs. 
+
+d) Accuracy: 
+
+
+
+
+
+
+
+
+
+
 # Run the network
 
 To run the model, two things are required:
