@@ -13,6 +13,16 @@ Training Accuracy at the end of Epoch 50 = 96.69425201416016%
 Accuracy for the validation set = 95.9738998413086%
 ~~~
 
+# Future Task and Accuracy Improvements
+
+a) I am planning to implement Squeeze and Excitations as mentioned in this paper: https://arxiv.org/pdf/1709.01507.pdf to boost up the accuracy.
+
+b) ResNet model has Global Average Pooling layer after final convolution layer, so this model is by default compatible to generate CAM as in paper: http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf. So, I will modify ResNet model to generate CAM.
+
+c) Train this complete network on MS1MV_2 dataset, which has ~3.8M images for males and ~1.8M images for females. I am planning to train the network on equal number of male/female images i.e 1.8M images each class.
+
+d) Finally, test this image on MORPH. Also, generate CAM for MORPH dataset. Images for MORPH as aligned, so stacking heatmap for all males/females will most likely indicated what were the most salient region for gender classification. 
+
 
 
 # Run the network
