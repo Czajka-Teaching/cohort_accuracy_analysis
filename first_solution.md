@@ -10,9 +10,9 @@ d) Accuracy: To set the pipeline, I have used a Gender-Classification dataset th
 
 ~~~bash
 Training Accuracy at the end of Epoch 50 = 96.69425201416016%
-Accuracy \for the validation \set = 95.9738998413086%
+Accuracy for the validation set = 95.9738998413086%
 ~~~
-
+Log Files for the Training/Validation Accuracy can be found here: [log file](https://github.com/Czajka-Teaching/semester-project-abhatta1234/blob/main/ResNet/gender_classification_resnet.o337624)
 # Future Task and Accuracy Improvements
 
 a) I am planning to implement Squeeze and Excitations as mentioned in this paper: https://arxiv.org/pdf/1709.01507.pdf to boost up the accuracy.
