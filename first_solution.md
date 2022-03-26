@@ -6,14 +6,12 @@ b) There could be several loss function available but the loss of preference for
 
 c) Optimizations: I have used standard Adam Optimizer, with initial learning rate of 0.1 with step reduction by factor of 0.1 every 15 epochs. 
 
-d) Accuracy: 
+d) Accuracy: To set the pipeline, I have used a Gender-Classification dataset that I got from Kaggle. The link for the dataset is: https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset. It has ~23,000 images for training and ~5,500 images for validation for each class. 
 
-
-
-
-
-
-
+~~~bash
+Training Accuracy at the end of Epoch 50 = 96.69425201416016%
+Accuracy for the validation set = 95.9738998413086%
+~~~
 
 
 
