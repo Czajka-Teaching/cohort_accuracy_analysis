@@ -24,8 +24,18 @@ c) Train this complete network on MS1MV_2 dataset, which has ~3.8M images for ma
 d) Finally, test this image on MORPH. Also, generate CAM for MORPH dataset. Images for MORPH as aligned, so stacking heatmap for all males/females will most likely indicated what were the most salient region for gender classification. 
 
 
+# Check the prediction for one validation image
 
-# Run the network
+To check the validation model, pass the num_layers and path to image to get results.
+
+Note: Currently, only the pretrained version is available for ResNet-50.
+
+~~~bash
+python3 ResNet/python3 check_val.py -n num_layers -img path_to_img
+~~~
+
+
+# Train the network from Scratch
 
 To run the model, two things are required:
 
