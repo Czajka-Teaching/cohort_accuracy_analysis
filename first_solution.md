@@ -1,3 +1,9 @@
+# Student Name/ ID:
+
+Aman Bhatta
+Net_ID : 902186627
+
+
 # Network Architecture and Summary
 
 a) Layers: I have implemented ResNet 50/101/152 from scratch for the gender classification model. 
