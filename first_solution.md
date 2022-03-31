@@ -57,3 +57,11 @@ python3 ResNet/main.py -n num_layers
 Notes:
 1) ResNet model accepts [50,101,152] as the acceptable number of layers
 2) For future update, the path to train and validation data will be available to be passed from the arguments
+
+# Model Zoo
+
+The pretrained model can be downloaded from here: [Google Drive Location](https://drive.google.com/drive/folders/1zp7BsRb7M42PRj6EoyHbqZIeQAlV8oc4?usp=sharing)
+
+To run the validation code, download saved_model folder from the link provided above. Make sure it's at the same directory level as ResNet folder.
+
+
