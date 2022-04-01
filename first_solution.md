@@ -64,4 +64,8 @@ The pretrained model can be downloaded from here: [Google Drive Location](https:
 
 To run the validation code, download saved_model folder from the link provided above. Make sure it's at the same directory level as ResNet folder.
 
+# Validation Demo Video
+
+Demo Run of validation instances can be found in this drive location: [Google Drive Location](https://drive.google.com/drive/folders/11Tm9cJ5LTOcrqULD385p2Z4g_pjqoP2u?usp=sharing)
+
 
