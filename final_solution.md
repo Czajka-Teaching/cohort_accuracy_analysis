@@ -1,3 +1,9 @@
+# Student: Aman Bhatta (ND ID: ----)
+
+# Reproduce Results
+
+To reproduce the results instructions are shown in this readme file : 
+
 # Details of the trained model
 - Base Architecture: ResNet-50
 - Training Dataset: Subset of MS1MV2, with 1M images each for male and female
@@ -17,6 +23,7 @@
     - AA_F: 50
 - Validation: 94.23 @ 63rd epoch 
 
+# Results
 <table>
     <tr><th colspan=2> Grad-CAM Visualization for Gender Classification Model </th></tr>
   <tr><th colspan=2> Correct Classification </th></tr>
@@ -48,3 +55,5 @@
   <tr><td><img src="/gradcam_images/females_average_image_incorrect.jpg" width="600"/></td><td><img src="/gradcam_images/females_gradcam_cam_incorrect.jpg" width="600"/></td></tr>
 </table>
 <br><br>
+
+# Analysis
