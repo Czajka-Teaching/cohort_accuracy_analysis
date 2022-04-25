@@ -76,8 +76,6 @@ def get_args():
     return args
 
 
-model_path = "../trained_models/resnet50_model_final_kag.pth"
-
 if __name__ == '__main__':
 
     args = get_args()
