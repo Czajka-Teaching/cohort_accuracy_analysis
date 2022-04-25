@@ -31,24 +31,3 @@ class ImageList(ImageFolder):
 
 
 
-
-
-
-############ Checks ######################
-
-# path_txt = "/afs/crc.nd.edu/user/a/abhatta/MLproject/MLbalancedproject/preprocessingMLproject/txtfiles/check.txt"
-
-# #transform for this dataset
-# transform = transforms.Compose([
-# transforms.Resize((256,256)),
-# transforms.CenterCrop((224,224)),
-# transforms.ToTensor(),
-# transforms.Normalize(mean=[0.6527, 0.4830, 0.4047], std=[0.2358, 0.2069, 0.1974])])
-
-# loader = ImageList(path_txt,transform=transform)
-
-# images, labels = next(iter(loader))
-
-# one_batch = next(iter(loader))
-
-# print(one_batch.shape)
