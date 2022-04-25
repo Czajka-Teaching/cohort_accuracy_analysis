@@ -14,8 +14,6 @@ import argparse
 from tqdm import tqdm
 from dataloader import ImageList
 
-testimgpath = "/afs/crc.nd.edu/user/a/abhatta/NNproject/txtfiles/morph/females.txt"
-saved_model_path = "../trained_models/resnet50_model_final_kag.pth"
 
 def test(test_imgpath,saved_model_path):
     transform = transforms.Compose([
