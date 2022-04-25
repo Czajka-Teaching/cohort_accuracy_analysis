@@ -58,4 +58,12 @@ The gradcam visualizations are split into two categories. The first category of 
 </table>
 <br><br>
 
-# Analysis
+# Analysis/ Discussion
+
+# Trained Model
+    
+1) The model accuracy varied greatly by gender and also the ethnic group. The test accuracy is near perfect for Caucasian and African-American males. The accuracy accurate for Caucasian female as compared to African-American female, which is almost random.
+2) The random accuracy for African-American female might be due to the fact that there was no african-american females in the training dataset. The model is trained on the subset of MS1MV2 celebrity dataset and that is most likely the cause.
+3) The other cause might be that the learning rate was reduced based on the plateuing overall validation accuracy. It seems like that optimized for the male accuracy more than for the female accuracy.
+
+# Gradcam images
