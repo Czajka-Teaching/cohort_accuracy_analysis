@@ -19,10 +19,6 @@ import os
 from torch.utils.tensorboard import SummaryWriter
 writer = SummaryWriter("runs/")
 
-path_train_img_list = '/afs/crc.nd.edu/user/a/abhatta/NNproject/txtfiles/ms1/ms1_all.txt'
-path_val_img_list = '/afs/crc.nd.edu/user/a/abhatta/NNproject/txtfiles/kaggle/combined_train_kaggle.txt'
-save_path = "/afs/crc.nd.edu/user/a/abhatta/NNproject/saved_models/resnet{}_model.pth"
-
 def train_val(resnet_layer_num,train_imglist,val_imglist,save_path):
 
     #transform for this validation dataset - Kaggle DataSet
