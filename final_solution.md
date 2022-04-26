@@ -67,3 +67,5 @@ The gradcam visualizations are split into two categories. The first category of 
 3) The other cause might be that the learning rate was reduced based on the plateuing overall validation accuracy. It seems like that optimized for the male accuracy more than for the female accuracy.
 
 # Gradcam images
+1) For correct classification,the gradcam images suggest that for the correct classification, the model generally focuses on the lower midregion of the face - mostly on nose and mouth regions. 
+2) For incorrect classification, the gradcam activations donot show any conclusive pattern. This simply suggest that the trained model doesn't look at specific region of the face before making incorrect decision. It also suggests that the model looks at different regions of the face for different misclassified images. 
