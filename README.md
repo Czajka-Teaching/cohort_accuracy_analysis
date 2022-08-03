@@ -1,6 +1,6 @@
 # Final Results
 
-The final results that is the average image and the average gradcam image for each cohort in MORPH is shown here: [val/test txt](https://github.com/Czajka-Teaching/semester-project-abhatta1234/tree/main/finalresults.md)
+The final results that is the average image and the average gradcam image for each cohort in MORPH is shown here: [final_solution.md](final_solution.md)
 
 
 # Preprocessing
