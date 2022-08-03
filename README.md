@@ -1,3 +1,8 @@
+# Final Results
+
+The final results that is the average image and the average gradcam image for each cohort in MORPH is shown here: [val/test txt](https://github.com/Czajka-Teaching/semester-project-abhatta1234/tree/main/finalresults.md)
+
+
 # Preprocessing
 
 The txtfiles that are required to for train,test and validation can be created as such:
