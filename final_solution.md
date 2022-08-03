@@ -49,7 +49,7 @@ The gradcam visualizations are split into two categories. The first category of 
   <tr><td><img src="/gradcam_images/C_F_average_image_incorrect.jpg" width="600"/></td><td><img src="/gradcam_images/C_F_gradcam_cam_incorrect.jpg" width="600"/></td></tr>
     <tr><td align="center">Average African-American Male Face</td><td align="center">Grad-CAM</td></tr>
   <tr><td><img src="/gradcam_images/AA_M_average_image_incorrect.jpg" width="600"/></td><td><img src="/gradcam_images/AA_M_gradcam_cam_incorrect.jpg"  width="600"/></td></tr>
-  <tr><td align="center">Average Caucasian Male Face</td><td align="center">Grad-CAM</td></tr>
+  <tr><td align="center">Average African-American Female Face</td><td align="center">Grad-CAM</td></tr>
   <tr><td><img src="/gradcam_images/AA_F_average_image_incorrect.jpg" width="600"/></td><td><img src="/gradcam_images/AA_F_gradcam_cam_incorrect.jpg" width="600"/></td></tr>
     <tr><td align="center">MORPH Male Face</td><td align="center">Grad-CAM</td></tr>
   <tr><td><img src="/gradcam_images/males_average_image_incorrect.jpg" width="600"/></td><td><img src="/gradcam_images/males_gradcam_cam_incorrect.jpg"  width="600"/></td></tr>
