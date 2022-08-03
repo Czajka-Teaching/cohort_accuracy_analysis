@@ -1,4 +1,4 @@
-# Student: Aman Bhatta (ND ID: 9021XXXXX)
+# Student: Aman Bhatta
 
 # Reproduce Results
 
